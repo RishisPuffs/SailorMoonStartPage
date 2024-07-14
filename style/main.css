@@ -5,14 +5,14 @@
 }
 
 :root {
-    --color-border: #f1adc3;
-    --color-commandline: #fdebf1;
-    --color-bg: rgba(236, 207, 225,255);
-    --color-topbar: #ad78ba;
+    --color-border: #fe608b;
+    --color-commandline: #ffe8ec;
+    --color-bg: rgba(255, 232, 236,255);
+    --color-topbar: #dcd5ff;
 
-    --color-text: rgb(0, 0, 0);
+    --color-text: rgb(254, 96, 139);
     --color-text-hl: var(--color-border);
-    --color-main-bg: #fcdfe8;
+    --color-main-bg: #ffe8ec;
 
     --background-picture: url("../content/arizona-small.png");
     --side-picture: url("../content/wavepink.png");
