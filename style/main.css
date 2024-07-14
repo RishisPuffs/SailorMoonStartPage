@@ -15,7 +15,7 @@
     --color-main-bg: #ffe8ec;
 
     --background-picture: url("../content/arizona-small.png");
-    --side-picture: url("../content/wavepink.png");
+    --side-picture: url("../content/girlsnightout.png");
 }
 
 div {
@@ -28,7 +28,7 @@ a {
 }
 a:hover {
     text-decoration: none;
-    color: #52cbbf;
+    color: #5f6caa;
 }
 
 #top-level-container {
