@@ -87,10 +87,10 @@ a:hover {
     border-color: var(--color-border);
 }
 
-#quote {
-    order: 1;
-    padding-left: 3px;
-}
+#quote 
+#    order: 1;
+#    padding-left: 3px;
+#
 
 #clock {
     order: 2;
