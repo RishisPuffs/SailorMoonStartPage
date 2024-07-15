@@ -1,9 +1,7 @@
-# StartPage2
-Second attempt at a startpage
+# Sailor Moon Start Page
+Forked and reskinned start page as a Sailor Moon Theme
 
 Go to the live website with the link in the about section on the right hand sidebar.
-
-A personal and mostly just creatively satisfying project. No, your screen isn't glitching out, that's a CSS scanlines effect. Probably not many would like it but I think its cool.
 
 ## Search bar functionality:
 ```
@@ -16,5 +14,3 @@ A personal and mostly just creatively satisfying project. No, your screen isn't 
 -s [shortcut name] : goes to shortcut's url
 no prefix: google search of whatever is in search bar
 ```
-
-Although, unless you're me, you won't be able to add or remove shortcuts since I've locked that feature with firebase authentication for obvious reasons. 
