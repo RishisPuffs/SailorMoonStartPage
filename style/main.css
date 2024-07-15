@@ -89,6 +89,7 @@ a:hover {
 
 #clock {
     order: 1;
+    float: right;
     padding-right: 3px;
 }
 
